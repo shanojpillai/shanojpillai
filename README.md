@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Shanoj Pillai
+![Light Blue and Black Simple Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/04096615-db72-4c8c-9446-6c1368281432)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanoj-kv/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shanoj.medium.com/)
