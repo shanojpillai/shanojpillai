@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanoj-kv/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shanoj.medium.com/)
 
-## 💻 AI Solutions Architect | Data Engineering Leader | Cloud Specialist
+## 💻 AI Solutions Architect | Building Production LLM Systems | Real-time ML Engineer
 
 > Transforming business challenges into technical solutions with AI, ML, and cloud technologies
 
