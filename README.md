@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Shanoj Pillai
+![1744559561673](https://github.com/user-attachments/assets/8b48a023-e0dc-48b4-849e-6036d6346360)
 
 **AI Solutions Architect | 22 Years Shipping Production Systems**
 
@@ -46,7 +47,7 @@ I build enterprise AI and real-time ML solutions—from architecture to code. My
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanoj-kv/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([YOUR_MEDIUM_LINK](https://shanoj.medium.com/))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shanoj.medium.com/)
 
 ---
 
