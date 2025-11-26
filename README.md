@@ -3,10 +3,6 @@
 
 **AI Solutions Architect | 22 Years Shipping Production Systems**
 
-I build enterprise AI and real-time ML solutions—from architecture to code. My GitHub shows end-to-end implementations: LLM applications, streaming ML pipelines, and production-grade data platforms processing 40TB/day.
-
----
-
 ## 🚀 What I Build
 
 **AI & LLM Systems**
